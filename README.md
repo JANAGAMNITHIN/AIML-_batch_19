@@ -13,6 +13,8 @@
 
 [lab-7-(https://github.com/JANAGAMNITHIN/AIML-_batch_19/blob/main/assignment9.ipynb)]]
 
+[Lab-8-(https://github.com/JANAGAMNITHIN/AIML-_batch_19/blob/main/Copy_of_Assignment8.ipynb)]
+
 [lab-9-(https://github.com/JANAGAMNITHIN/AIML-_batch_19/blob/main/assignment9.ipynb)]
 
 [lab-10-(https://github.com/JANAGAMNITHIN/AIML-_batch_19/blob/main/assignment_10.ipynb)]
